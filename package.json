@@ -1,0 +1,36 @@
+{
+  "name": "rpgcoin-ops",
+  "version": "1.0.0",
+  "description": "rpgcoin OP codes",
+  "author": "Silence <silence@rpgcoin.gg>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RPGCoin/rpgcoin-ops.git"
+  },
+  "bugs": {
+    "url": "https://github.com/RPGCoin/rpgcoin-ops/issues"
+  },
+  "homepage": "https://github.com/RPGCoin/rpgcoin-ops",
+  "keywords": [
+    "opcodes",
+    "ops",
+    "rpg-ops",
+    "rpgops",
+    "rpgcoin-ops",
+    "rpgcoin",
+    "rpg",
+    "rpg-ops",
+    "rpgcoin",
+    "rpgcoin-ops"
+  ],
+  "files": [
+    "index.json",
+    "map.js"
+  ],
+  "main": "./index.json",
+  "scripts": {},
+  "devDependencies": {
+    "standard": "*"
+  }
+}
